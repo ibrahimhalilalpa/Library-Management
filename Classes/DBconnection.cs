@@ -11,7 +11,7 @@ namespace LibraryProject.Classes
     public class DBconnection
     {
         
-        public static string DBaddress = @"Data Source= D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\DB\\library.db; Version=3;New=False;Compress=True;Read Only=False;";
+        public static string DBaddress = @"Data Source= D:\Software\Projects\OOP 1 Project\Library Project\LibraryProject\bin\DB\\library.db; Version=3;New=False;Compress=True;Read Only=False;";
         public static string ConnState;
         public static void ConTest()
         {
