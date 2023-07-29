@@ -1,0 +1,51 @@
+﻿<Window x:Class="LibraryProject.LoginScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryProject"
+        mc:Ignorable="d"
+       Title="LoginScreen" Height="450" Width="900" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" AllowsTransparency="True" WindowStyle="None" Background="Purple">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="450"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="1" Background="#FFAAD2CF" Height="380" Width="400" CornerRadius="50,50,50,50">
+            <Canvas Height="450" Width="450">
+                <Label Content="LOG IN" Height="40" Width="134" Canvas.Left="150" Canvas.Top="10" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" ></Label>
+
+                <Label Content="Username:" Height="40" Width="100" Canvas.Left="20" Canvas.Top="130" FontSize="20" HorizontalContentAlignment="Right" ></Label>
+                <Label Content="Password:" Height="40" Width="100" Canvas.Left="20" Canvas.Top="180" FontSize="20" HorizontalContentAlignment="Right"></Label>
+                <TextBox x:Name="txt_Username" Height="40" Width="200" Canvas.Left="130" Canvas.Top="130" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                <PasswordBox x:Name="txt_Password" Height="40" Width="200" Canvas.Left="130" Canvas.Top="180" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+                <Button x:Name="btn_login" Click="btn_login_Click" Content="Login" Background="LawnGreen" Height="40" Width="150" Canvas.Left="130" Canvas.Top="300"/>
+            </Canvas>
+        </Border>
+        <Border Grid.Column="0" Background="LimeGreen" Height="380" Width="400" CornerRadius="50,50,50,50">
+            <Canvas Height="450" Width="450">
+
+                <Label Content="SIGN UP" Height="40" Width="100" Canvas.Left="150" Canvas.Top="10" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"></Label>
+
+                <Label Content="Name Surname:" Height="40" Width="150" Canvas.Left="28" Canvas.Top="60" FontSize="20" HorizontalContentAlignment="Right"></Label>
+                <Label Content="UserName:" Height="40" Width="150" Canvas.Left="30" Canvas.Top="105" FontSize="20" HorizontalContentAlignment="Right" ></Label>
+                <Label Content="Password:" Height="40" Width="150" Canvas.Left="26" Canvas.Top="150" FontSize="20" HorizontalContentAlignment="Right"></Label>
+                <Label Content="Email:" Height="40" Width="150" Canvas.Left="20" Canvas.Top="240" FontSize="20" HorizontalContentAlignment="Right"></Label>
+
+                <TextBox x:Name="txt_NameSurname"  Height="40" Width="200" Canvas.Left="185" Canvas.Top="60" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_UsernameSign" Height="40" Width="200" Canvas.Left="185" Canvas.Top="105" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <PasswordBox x:Name="txt_PasswordSign" Height="40" Width="200" Canvas.Left="185" Canvas.Top="150" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <TextBox x:Name="txt_Email" Height="40" Width="200" Canvas.Left="185" Canvas.Top="240" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+
+                <Button x:Name="btn_SignUp" Click="btn_SignUp_Click" Content="Sign Up" Background="LawnGreen" Height="40" Width="150" Canvas.Left="190" Canvas.Top="312"/>
+                <Label Content="Password Verify:" Height="40" Width="156" Canvas.Left="20" Canvas.Top="195" FontSize="20" HorizontalContentAlignment="Right" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                <PasswordBox x:Name="txt_PasswordSign2" Height="40" Width="200" Canvas.Left="185" Canvas.Top="195" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            </Canvas>
+        </Border>
+        <Button x:Name="Login_Exit" Click="Login_Exit_Click" Background="Red" Grid.Column="1" Content="Exit" HorizontalAlignment="Left" Margin="408,0,0,430" VerticalAlignment="Bottom" Height="20" Width="45"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="LoginScreen.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucAbout.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucBookList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucEscrowBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucExpiredBooks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucReaderList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserControls\ucSettings.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="winAddBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="winEscrowBook.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="LoginScreen.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ucAbout.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ucBookList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ucEscrowBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ucExpiredBooks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ucReaderList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserControls\ucSettings.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="winAddBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="winEscrowBook.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

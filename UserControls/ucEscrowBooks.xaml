@@ -1,0 +1,124 @@
+﻿<UserControl x:Class="LibraryProject.UserControls.ucEscrowBooks"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryProject.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="600" Loaded="UserControl_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0">
+            <DataGrid x:Name="dtg_EscrowBooks" ItemsSource="{Binding}" BorderBrush="{x:Null}" Foreground="Black" IsReadOnly="True" RowHeight="30" CanUserAddRows="False" CanUserSortColumns="True" CanUserResizeColumns="False" CanUserResizeRows="False" HorizontalGridLinesBrush="Gray" VerticalGridLinesBrush="Gray" HeadersVisibility="Column" AutoGenerateColumns="False" Style="{DynamicResource DataGridStyle1}">
+
+                <!--Data columns to be retrieved-->
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn 
+                        Binding="{Binding Path=ID}" IsReadOnly="True" Header="ID" MinWidth="50">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="5"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+
+                        <DataGridTextColumn.CellStyle>
+                            <Style TargetType="DataGridCell">
+                                <Setter Property="Background" Value="#2e61af"/>
+                                <Setter Property="BorderThickness" Value="0,0,0,0"/>
+                                <Setter Property="BorderBrush" Value="#FF134187"/>
+                                <Setter Property="Foreground" Value="White"/>
+                                <Style.Triggers>
+                                    <Trigger Property="IsSelected" Value="True">
+                                        <Setter Property="Background" Value="#FF134187"/>
+                                        <Setter Property="BorderThickness" Value="0,0,0,0"/>
+                                        <Setter Property="BorderBrush" Value="LawnGreen"/>
+                                        <Setter Property="Foreground" Value="White"/>
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </DataGridTextColumn.CellStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn 
+                        Binding="{Binding Path=ReaderID}" IsReadOnly="True" Header="ReaderID" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="5,0,5,0"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn 
+                        Binding="{Binding Path=BookID}" IsReadOnly="True" Header="Book ID" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="5,0,5,0"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                   
+                    <DataGridTextColumn 
+                        Binding="{Binding Path=EscrowDate}" IsReadOnly="True" Header="Escrow Date" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="5,0,5,0"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    <DataGridTextColumn 
+                        Binding="{Binding Path=ReturnDate}" IsReadOnly="True" Header="Return Date" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="5,0,5,0"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    
+                    <DataGridTextColumn 
+                        Binding="{Binding Path=NameSurname}" IsReadOnly="True" Header="User Name Surname" TextBlock.TextAlignment="Center" TextElement.FontStretch="Expanded">
+                        <DataGridTextColumn.ElementStyle>
+                            <Style TargetType="TextBlock">
+                                <Setter Property="HorizontalAlignment" Value="Left"/>
+                                <Setter Property="VerticalAlignment" Value="Center"/>
+                                <Setter Property="Padding" Value="5,0,5,0"/>
+                            </Style>
+                        </DataGridTextColumn.ElementStyle>
+                    </DataGridTextColumn>
+                    
+                </DataGrid.Columns>
+
+            </DataGrid>
+        </Border>
+
+        <Border Background="White" Grid.Row="1">
+            <Canvas>
+                <Button x:Name="btn_SearchEscrowBook" Click="btn_SearchEscrowBook_Click" Content="Search" Canvas.Left="225" Canvas.Top="5" Height="30" Width="75" Background="#FF63AF5D" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                <Label Content="Search Escrow Book:" Height="30" Canvas.Top="5" Background="#FFA8D2CB" Canvas.Left="10"></Label>
+                <TextBox x:Name="txt_SearchEscrowBook" Width="84" Height="30" Canvas.Left="135" Canvas.Top="5" HorizontalContentAlignment="Left" TextChanged="txt_SourceBook_TextChanged"/>
+                <Label x:Name="lb_EscrowCount" Content="Escrow count:" Height="27" Canvas.Top="42" Background="#FFA8D2CB" Canvas.Left="320" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Center" Width="130"></Label>
+                <Button x:Name="btn_SearchUsername" Click="btn_SearchUsername_Click" Content="Search" Canvas.Left="225" Canvas.Top="41" Height="30" Width="75" Background="#FF63AF5D" HorizontalAlignment="Left" VerticalAlignment="Center" />
+                <Label Content="Search Username:" Height="28" Canvas.Top="40" Background="#FFA8D2CB" Canvas.Left="11" HorizontalContentAlignment="Right" VerticalAlignment="Center" Width="115"></Label>
+                <TextBox x:Name="txt_SearchUsername" Width="84" Height="28" Canvas.Left="135" Canvas.Top="41" HorizontalAlignment="Left" VerticalAlignment="Top"  />
+
+                <Button x:Name="btn_DeleteEscrowBook" Content="Delete" Click="btn_DeleteEscrowBook_Click" Style= "{DynamicResource userControlDeleteStyle}" Canvas.Left="420" Canvas.Top="7"></Button>
+                <Button x:Name="btn_UpdateEscrowBook" Content="Update" Click="btn_UpdateEscrowBook_Click" Style= "{DynamicResource userControlUpdateStyle}" Canvas.Left="480" Canvas.Top="7" ></Button>
+                <Button x:Name="btn_AddEscrowBook" Content="Add Book" Click="btn_AddEscrowBook_Click" Style= "{DynamicResource userControlAddStyle}" Canvas.Left="538" Canvas.Top="7" HorizontalAlignment="Left" VerticalAlignment="Center" ></Button>
+
+            </Canvas>
+
+        </Border>
+    </Grid>
+</UserControl>

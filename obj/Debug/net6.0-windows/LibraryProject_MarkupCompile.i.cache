@@ -1,0 +1,20 @@
+﻿LibraryProject
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\
+LibraryProject
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\App.xaml
+11-181125562
+
+21-359556237
+201-851344352
+LoginScreen.xaml;MainWindow.xaml;UserControls\ucAbout.xaml;UserControls\ucBookList.xaml;UserControls\ucEscrowBooks.xaml;UserControls\ucExpiredBooks.xaml;UserControls\ucReaderList.xaml;UserControls\ucSettings.xaml;winAddBook.xaml;WindowUser.xaml;winEscrowBook.xaml;
+
+True
+

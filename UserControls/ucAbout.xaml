@@ -1,0 +1,69 @@
+﻿<UserControl x:Class="LibraryProject.UserControls.ucAbout"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryProject.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" MaxHeight="450" MaxWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="580"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Background="MediumPurple" Grid.Column="0" Grid.Row="0">
+            <StackPanel HorizontalAlignment="Center">
+                <Border VerticalAlignment="Center" HorizontalAlignment="Center"  Height="50" Width="220">
+                    <Label Content="Contents" Height="50" Width="220" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20" Background="Purple"></Label>
+                </Border>
+                <ToggleButton x:Name="btn_About_Books" Click="btn_About_Books_Click" Height="50" Style="{DynamicResource menubuttons}" Margin="0,10,0,0">
+                    <DockPanel Width="200" Margin="15,0,0,0">
+                        <Label Content="About the Books" Foreground ="White" FontSize="15" Width="150"/>
+                    </DockPanel>
+                </ToggleButton>
+                <ToggleButton x:Name="btn_About_Authors" Click="btn_About_Authors_Click" Height="50" Style="{DynamicResource menubuttons}" Margin="0,10,0,0">
+                    <DockPanel Width="200" Margin="15,0,0,0">
+                        <Label Content="About the Authors" Foreground ="White" FontSize="15" Width="150"/>
+                    </DockPanel>
+                </ToggleButton>
+                <ToggleButton  x:Name="btn_About_Users" Click="btn_About_Users_Click"  Height="50" Style="{DynamicResource menubuttons}" Margin="0,10,0,0">
+                    <DockPanel Width="200" Margin="15,0,0,0">
+                        <Label Content= "About the Users" Foreground ="White" FontSize="15" Width="150"/>
+                    </DockPanel>
+                </ToggleButton>
+                <ToggleButton  x:Name="btn_About_Admin" Click="btn_About_Admin_Click" Height="50" Style="{DynamicResource menubuttons}" Margin="0,10,0,0">
+                    <DockPanel Width="200" Margin="15,0,0,0">
+                        <Label Content="About the Admin" Foreground ="White" FontSize="15"  Width="150"/>
+                    </DockPanel>
+                </ToggleButton>
+                <ToggleButton x:Name="btn_About_Library" Click="btn_About_Library_Click" Height="50" Style="{DynamicResource menubuttons}" Margin="0,10,0,0">
+                    <DockPanel Width="200" Margin="15,0,0,0">
+                        <Label Content="About the Library" Foreground ="White" FontSize="15" Width="150"/>
+                    </DockPanel>
+                </ToggleButton>
+                <ToggleButton  x:Name="btn_About_Rules" Click="btn_About_Rules_Click" Height="50" Style="{DynamicResource menubuttons}" Margin="0,10,0,0">
+                    <DockPanel Width="200" Margin="15,0,0,0">
+                        <Label Content="Rules" Foreground ="White" FontSize="15" Width="150"/>
+                    </DockPanel>
+                </ToggleButton>
+
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="1" Background="LightGray" x:Name="brd_About" HorizontalAlignment="Center" VerticalAlignment="Center" Width="580" Height="450">
+            <StackPanel HorizontalAlignment="Center">
+                <Border HorizontalAlignment="Center" VerticalAlignment="Center" Height="50">
+                    <Label x:Name="lbl_About" Content="Information..." Background="GreenYellow" Height="50" Width="580" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20">
+                    </Label>
+                </Border>
+                    
+                    <TextBox x:Name="txt_About" Background="LightSeaGreen" Height="400" Width="580" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
+                    </TextBox>
+                
+            </StackPanel>
+        </Border>
+        
+        
+    </Grid>
+</UserControl>

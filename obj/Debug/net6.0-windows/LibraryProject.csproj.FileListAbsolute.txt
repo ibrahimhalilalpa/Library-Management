@@ -1,0 +1,230 @@
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.cache
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.lref
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.g.resources
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\winAddBook.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\winAddBook.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\InformationScreen.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\InformationScreen.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.baml
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.g.cs
+C:\Users\Halil\Desktop\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\InformationScreen.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\winAddBook.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\App.g.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.cache
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.lref
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\App.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\InformationScreen.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\winAddBook.baml
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.g.resources
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\Library\02.07.2022\Kütüphane\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\winAddBook.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.cache
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.lref
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\App.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\winAddBook.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.g.resources
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\winEscrowBook.g.cs
+C:\Users\Halil\Desktop\Library Project\LibraryProject\obj\Debug\net6.0-windows\winEscrowBook.baml
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Halil\Desktop\Library Project\LibraryProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.AssemblyReference.cache
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\winAddBook.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\winEscrowBook.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\App.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.cache
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject_MarkupCompile.lref
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\refint\LibraryProject.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.pdb
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\WindowUser.g.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.exe
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.deps.json
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.runtimeconfig.json
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\LibraryProject.pdb
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\EntityFramework.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\App.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LoginScreen.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucAbout.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucBookList.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucEscrowBooks.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucExpiredBooks.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucReaderList.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\UserControls\ucSettings.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\winAddBook.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\WindowUser.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\winEscrowBook.baml
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.g.resources
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfoInputs.cache
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.AssemblyInfo.cs
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CoreCompileInputs.cache
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.csproj.CopyComplete
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\LibraryProject.genruntimeconfig.cache
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\obj\Debug\net6.0-windows\ref\LibraryProject.dll
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\images\icons\menu.open.2.html
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\images\MainWindow\book.close.png
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\images\MainWindow\book.open.png
+D:\Library Yedekler\06.07.2022\Library Project\LibraryProject\bin\Debug\net6.0-windows\images\MainWindow\about.books.png
