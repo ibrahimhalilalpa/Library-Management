@@ -1,28 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Library Yedekler\\06.07.2022\\Library Project\\LibraryProject\\LibraryProject.csproj": {}
+    "D:\\Software\\Projects\\OOP 1 Project\\Library Project\\LibraryProject\\LibraryProject.csproj": {}
   },
   "projects": {
-    "D:\\Library Yedekler\\06.07.2022\\Library Project\\LibraryProject\\LibraryProject.csproj": {
+    "D:\\Software\\Projects\\OOP 1 Project\\Library Project\\LibraryProject\\LibraryProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Library Yedekler\\06.07.2022\\Library Project\\LibraryProject\\LibraryProject.csproj",
+        "projectUniqueName": "D:\\Software\\Projects\\OOP 1 Project\\Library Project\\LibraryProject\\LibraryProject.csproj",
         "projectName": "LibraryProject",
-        "projectPath": "D:\\Library Yedekler\\06.07.2022\\Library Project\\LibraryProject\\LibraryProject.csproj",
-        "packagesPath": "C:\\Users\\Halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Library Yedekler\\06.07.2022\\Library Project\\LibraryProject\\obj\\",
+        "projectPath": "D:\\Software\\Projects\\OOP 1 Project\\Library Project\\LibraryProject\\LibraryProject.csproj",
+        "packagesPath": "C:\\Users\\alpa_\\.nuget\\packages\\",
+        "outputPath": "D:\\Software\\Projects\\OOP 1 Project\\Library Project\\LibraryProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\alpa_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -63,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -75,7 +72,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
